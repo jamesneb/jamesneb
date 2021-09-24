@@ -1,18 +1,18 @@
 - 👋 Hi, I’m @jamesneb
 - 👀 I’m interested in ...
-      Robotics
-      Machine Learning
-      Computer Vision
+      Robotics/
+      Machine Learning/
+      Computer Vision/
 - 🌱 I’m currently learning ...
-      Go
-      Rust
-      React
-      Assembly
+      Go/
+      Rust/
+      React/
+      Assembly/
 - 💞️ I’m looking to collaborate on ...
       
 - 📫 How to reach me ...
-      (c) 385-210-4435
-      (e) james.nebeker@hey.com (p) / jnebeker@truckitapp.com (w)
+      (c) 385-210-4435/
+      (e) james.nebeker@hey.com (p) : jnebeker@truckitapp.com (w)
       
 
 <!---
