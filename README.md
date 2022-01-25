@@ -9,6 +9,7 @@
       React/
       Assembly/
 - 💞️ I’m looking to collaborate on ...
+     Rust/
       
 - 📫 How to reach me ...
       (c) 385-210-4435/
