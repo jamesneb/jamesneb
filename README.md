@@ -1,20 +1,5 @@
-- 👋 Hi, I’m @jamesneb
-- 👀 I’m interested in ...
-      Robotics/
-      Machine Learning/
-      Computer Vision/
-- 🌱 I’m currently learning ...
-      Go/
-      Rust/
-      React/
-      Assembly/
-- 💞️ I’m looking to collaborate on ...
-     Rust/
-      
-- 📫 How to reach me ...
-      (c) 385-210-4435/
-      (e) james.nebeker@hey.com (p) : jnebeker@truckitapp.com (w)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jamesneb)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jamesneb&theme=highcontrast)](https://git.io/streak-stats)
 
 <!---
 jamesneb/jamesneb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
