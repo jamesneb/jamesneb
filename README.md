@@ -14,7 +14,7 @@
 - 📫 How to reach me ...
       (c) 385-210-4435/
       (e) james.nebeker@hey.com (p) : jnebeker@truckitapp.com (w)
-      
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jamesneb)](https://git.io/streak-stats)
 
 <!---
 jamesneb/jamesneb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
