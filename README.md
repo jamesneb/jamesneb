@@ -1,3 +1,7 @@
+<a href="https://vshymanskyy.github.io/StandWithUkraine">
+		<img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg">
+	</a>
+
 # James Nebeker - Software Engineer
 
 Hello! привіт! My name is James, and I am a Software Engineer currently working for TruckIT, an *e-ticketing* SaaS company. 
