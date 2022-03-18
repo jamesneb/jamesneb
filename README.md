@@ -72,7 +72,7 @@ I have over five years experience in the simulation industry, particularly as it
 
 ## Languages Spoken
 
-🏴󠁧󠁢󠁥󠁮󠁧󠁿: native 🇺🇦 beginner
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 native 🇺🇦 beginner
 
 ## Contact Information
 📱385-210-4435 📧 jnebeker@truckitapp.com
