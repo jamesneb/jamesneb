@@ -1,15 +1,8 @@
-<a href="https://vshymanskyy.github.io/StandWithUkraine">
-		<img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg">
-	</a>
+[![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
-<h1 align="center">Hi 👋, I'm James Nebeker</h1>
-<h3 align="center">A lifelong learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jamesneb&label=Profile%20views&color=0e75b6&style=flat" alt="jamesneb" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamesneb" alt="jamesneb" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/jamesnebeker1" target="blank"><img src="https://img.shields.io/twitter/follow/jamesnebeker1?logo=twitter&style=for-the-badge" alt="jamesnebeker1" /></a> </p>
+# Hi 👋, I'm James Nebeker
+### _A lifelong learner_
 
 - 🔭 I’m currently working on [Smart Dispatch](https://www.truckit.com/)
 
@@ -17,32 +10,30 @@
 
 - 💬 Ask me about **VRP Optimization**
 
-- 📫 How to reach me **jnebeker@truckit.com**
+- 📫 **jnebeker@truckit.com**
 
 - ⚡ Fun fact **I am a twin**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://dev.to/jamesneb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/jamesneb" height="30" width="40" /></a>
-<a href="https://twitter.com/jamesnebeker1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jamesnebeker1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/james-nebeker/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/james-nebeker/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16864102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16864102" height="30" width="40" /></a>
-<a href="https://kaggle.com/jamesnebeker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jamesnebeker" height="30" width="40" /></a>
-<a href="https://hashnode.com/@jamesneb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@jamesneb" height="30" width="40" /></a>
-<a href="https://medium.com/@jnebeker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jnebeker" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/jnebeker" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jnebeker" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/jnebeker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jnebeker" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jamesneb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jamesneb" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@jnebeker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@jnebeker" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/jnebeker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="jnebeker" height="30" width="40" /></a>
-</p>
+## Connect with me:
+<a href="https://dev.to/jamesneb"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to/jamesneb" width="20" height="20"/></a>
+<a href="https://twitter.com/jamesnebeker1"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jamesnebeker1 on Twitter" width="20" height="20"/></a>
+<a href="https://linkedin.com/in/james-nebeker"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="James Nebeker on LinkedIn" width="20" height="20"/></a>
+<a href="https://stackoverflow.com/users/16864102"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow Profile" width="20" height="20"/></a>
+<a href="https://hashnode.com/@jamesneb"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="jamesneb on Hashnode" width="20" height="20"/></a>
+<a href="https://medium.com/@jnebeker"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="jnebeker on Medium" width="20" height="20"/></a>
+<a href="https://www.hackerrank.com/jnebeker"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jnebeker on HackerRank" width="20" height="20"/></a>
+<a href="https://www.leetcode.com/jamesneb"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jamesneb on LeetCode" width="20" height="20"/></a>
+<a href="https://www.topcoder.com/members/jnebeker"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="jnebeker on Topcoder" width="20" height="20"/></a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamesneb&show_icons=true&locale=en&layout=compact" alt="jamesneb" /></p>
+## Languages and Tools:
+| AI         | Database              | Component Framework              | Cloud Provider  | Language     |
+|--------------|--------------------------|-----------------------------|-----------------|--------------|
+| ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) | ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) |![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) | 
+|      | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) |  | ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) |
+|              | ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)            |  | | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| | | | | ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) |
+| | | | | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jamesneb&show_icons=true&locale=en" alt="jamesneb" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamesneb&" alt="jamesneb" /></p>
 
