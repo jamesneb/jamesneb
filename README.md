@@ -3,7 +3,7 @@
 	</a>
 
 <h1 align="center">Hi 👋, I'm James Nebeker</h1>
-<h3 align="center">A lifelong learner from Seattle</h3>
+<h3 align="center">A lifelong learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamesneb&label=Profile%20views&color=0e75b6&style=flat" alt="jamesneb" /> </p>
 
@@ -15,11 +15,7 @@
 
 - 🌱 I’m currently learning **Haskell**
 
-- 👯 I’m looking to collaborate on **VRP Optimization**
-
-- 🤝 I’m looking for help with **Vector tile styling**
-
-- 💬 Ask me about **Openlayers**
+- 💬 Ask me about **VRP Optimization**
 
 - 📫 How to reach me **jnebeker@truckit.com**
 
