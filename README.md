@@ -1,18 +1,18 @@
 [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
 
-# Hi 👋, I'm James Nebeker
-### _A lifelong learner_
+# Welcome - 👋
 
-- 🔭 I’m currently working on [Smart Dispatch](https://www.truckit.com/)
+> - 🔭 I’m currently working on [Smart Dispatch](https://www.truckit.com/)
+>
+> - 🌱 I’m currently learning **Haskell**
+>
+> - 💬 Ask me about **VRP Optimization**
+>
+> - 📫 **jnebeker@truckit.com**
+>
+> - ⚡ Fun fact **I am a twin**
 
-- 🌱 I’m currently learning **Haskell**
-
-- 💬 Ask me about **VRP Optimization**
-
-- 📫 **jnebeker@truckit.com**
-
-- ⚡ Fun fact **I am a twin**
 
 ## Connect with me:
 <a href="https://dev.to/jamesneb"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to/jamesneb" width="20" height="20"/></a>
